@@ -1,0 +1,42 @@
+/*nav*/
+nav{
+    margin:20px 175px;
+    display: flex;
+    justify-content: space-between;
+}
+#btn{
+    color: #096a3c;
+    background-color: white;
+    width:100px;
+    height: 38px;
+    border-radius: 8px;
+}
+/*banner*/
+.banner{
+    display:flex;
+    justify-content: space-between;
+    margin:20px 160px 30px 180px;
+    background-color: #d5f5e3;
+    border-radius: 10px;
+}
+.banner-content{
+    max-width:622px;
+    max-height: 326px;
+    padding: 75px 26px 50px 110px;
+}
+.banner-title{
+    margin-top: 60px;
+    color:#a5d6a7 ;
+}
+.hero-btn{
+    width:170px;
+    height: 45px;
+    font-size: bold;
+    color:white;
+    background-color:#096a3c ;
+    border-radius: 10px;
+}
+.pic{
+    width:474px;
+    padding: 60px 130px 80px 120px;
+}

@@ -1,6 +1,15 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    justify-content: center;
+    align-items: center;
+    max-height: 100vh;
+}
+
 /*nav*/
 nav{
-    margin:20px 175px;
+    margin:20px 160px;
     display: flex;
     justify-content: space-between;
 }
@@ -15,18 +24,21 @@ nav{
 .banner{
     display:flex;
     justify-content: space-between;
-    margin:20px 160px 30px 180px;
+    margin:20px 160px 120px 160px;
     background-color: #d5f5e3;
     border-radius: 10px;
 }
 .banner-content{
     max-width:622px;
     max-height: 326px;
-    padding: 75px 26px 50px 110px;
+    line-height: 1.4;
+    margin: 0 0 24px;
+    padding: 75px 28px 60px 120px;
 }
 .banner-title{
     margin-top: 60px;
     color:#a5d6a7 ;
+    margin-bottom: 8px;
 }
 .hero-btn{
     width:170px;
@@ -38,5 +50,19 @@ nav{
 }
 .pic{
     width:474px;
-    padding: 60px 130px 80px 120px;
+    padding: 60px 150px 80px 120px;
+    position: relative;
+}
+.pillar{
+    margin-left: 160px;
+}
+.card{
+    margin: 20px 160px 20px 160px;
+    display: flex;
+    gap:26px;
+}
+.card-des{
+    padding:30px;
+    box-shadow: 0px 6px 50px 0px rgb(0,0,0, 0.2);
+    border-radius: 10px;
 }

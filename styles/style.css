@@ -122,4 +122,82 @@ nav{
     margin-left: 160px;
     background-color: rgb(245, 245, 245);
     padding: 20px;
+    border-radius: 8px;
+}
+.recent{
+    margin-top:80px;
+}
+.news{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.news-card{
+    margin: 20px 160px 20px 160px;
+    display: flex;
+    gap:26px;
+    background-color: rgb(245, 245, 245);
+    padding: 30px;
+    border-radius: 8px;
+}
+.news-image{
+    border-radius: 12px;
+}
+.read-more{
+    width:170px;
+    height: 45px;
+    font-size: bold;
+    color:white;
+    background-color:#096a3c ;
+    border-radius: 10px;
+}
+.new-launch{
+    font-weight: bolder;
+}
+.donate{
+    margin-top: 60px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.donate-head{
+    text-align: center;
+}
+.first-para{
+    margin-left: 80px;
+}
+.second-para{
+    margin-left: 290px;
+}
+.donate-card{
+    margin: 20px 100px 20px 180px;
+    display: flex;
+    gap:12px;
+}
+.donate-text{
+    background-color:#e7f1ff ;
+    padding: 20px 40px 20px 40px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.color-text{
+    background-color: #a5d6a7;
+}
+.text-design{
+    margin-left: 260px;
+    margin-right:220px;
+    padding:10px 240px 10px 240px;
+    background-color: #f4f6f6;
+}
+.btn-now{
+    margin-top: 16px;
+    margin-left: 500px;
+    margin-right:380px;
+    background-color:#096a3c ;
+    color:white;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-size: 15px;
+    padding: 10px 30px 10px 30px;
+
 }

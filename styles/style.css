@@ -201,3 +201,60 @@ nav{
     padding: 10px 30px 10px 30px;
 
 }
+.donate-text:hover{
+    background-color: #9EA3F5;
+}
+.newsletter-card{
+    background-color: #d5f5e3;
+    border-radius: 12px;
+    margin-top: 60px;
+    margin-left: 160px;
+    margin-right: 160px;
+    padding: 60px;
+}
+.newsletter-head{
+    text-align: center;
+}
+.letter-para{
+    padding-left: 280px;
+}
+.letter-para1{
+    padding-left: 440px;
+}
+.email-text{
+    margin-left: 240px;
+    padding: 10px 300px 10px 25px;
+    background-color: #e7f1ff;
+}
+.sub-btn{
+    background-color: #096a3c;
+    color:white;
+    padding: 10px 60px 10px 60px;
+    font-weight: bolder;
+}
+.promise-mgs{
+    margin-left: 470px;
+}
+footer{
+    margin-top: 40px;
+   
+}
+.footer-design{
+    background-color: white;
+}
+.footer-head{
+    padding-top: 20px;
+    text-align:center;
+}
+.footer-img{
+    width: 20px;
+    height: 20px;
+    margin-left: 180px;
+    display: inline-block;
+   margin-top: 20px;
+   margin-bottom: 30px;
+}
+hr{
+    margin-left: 260px;
+    margin-right: 260px;
+}

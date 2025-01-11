@@ -66,3 +66,50 @@ nav{
     box-shadow: 0px 6px 50px 0px rgb(0,0,0, 0.2);
     border-radius: 10px;
 }
+.vision{
+    margin-left: 160px;
+    margin-top: 80px;
+}
+.vision1{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.card-descrip1{
+    padding:30px;
+    box-shadow: 0px 6px 50px 0px rgb(0,0,0, 0.2);
+    border-radius: 10px;
+    background-color: lavender;
+}
+.card-descrip2{
+    padding:30px;
+    box-shadow: 0px 6px 50px 0px rgb(0,0,0, 0.2);
+    border-radius: 10px;
+    background-color: #d5f5e3 ;
+}
+.card-descrip3{
+    padding:30px;
+    box-shadow: 0px 6px 50px 0px rgb(0,0,0, 0.2);
+    border-radius: 10px;
+    background-color:#FFFFF0 ;
+}
+.btn1{
+    background-color:#9EA3F5;
+    color:white;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-size: 15px;
+}
+.btn2{
+    background-color:#60D8B6;
+    color:white;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-size: 15px;
+}
+.btn3{
+    background-color:wheat;
+    color:white;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-size: 15px;
+}
